@@ -1,3 +1,3 @@
 # tic-tac-toe
 
-tic-tac-toe пфьу
+tic-tac-toe game
