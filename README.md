@@ -1,5 +1,4 @@
 # tic-tac-toe
 
 tic-tac-toe game
-вв
-іі
+
